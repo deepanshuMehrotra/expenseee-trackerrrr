@@ -1,0 +1,38 @@
+.transactions-count{
+    box-shadow: 0 0 2px gray;
+    padding:15px;
+    border-radius: 10px;
+    color:#555353 !important
+}
+.analytics h4{
+    font-size: 19px;
+    color: gray !important;
+    font-weight: 600;
+    
+}
+.i {
+    font-size:17px;
+    color:#07d107;
+}
+.e{
+    font-size:17px;
+    color:red;
+}
+.income-category-analysis{
+    box-shadow: 0 0 2px gray;
+    padding:15px;
+    border-radius: 10px;
+    color:#555353 !important
+}
+.expense-category-analysis{
+    box-shadow: 0 0 2px gray;
+    padding:15px;
+    border-radius: 10px;
+    color:#555353 !important
+}
+.category-card{
+    padding:20px;
+    box-shadow:0 0 2px gray;
+    margin-top: 15px;
+    border-radius: 5px;
+}
